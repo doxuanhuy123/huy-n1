@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title> 
+    <link rel="stylesheet" href="bt3.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="cont" >
+        <h1>User</h1>
+        <div class="temp">
+        <div class="temp1">
+            <a href="#">
+                <span class="glyphicon glyphicon-search"></span>
+              </a>
+            <p>search users</p>
+        </div>
+        <div class="temp2">
+            <p>Reputation</p>
+            <p>New users</p>
+            <p>Voters</p>
+            <p>Editors</p>
+            <p>Moderators</p>
+        </div>
+        </div>
+    </div>
+</body>
+</html>
