@@ -1,0 +1,32 @@
+.cont{
+    display: flex;
+    justify-content: cen;
+    width: 600px;
+    height: 400px;
+    flex-direction: column;
+    text-align: cent;
+    outline: 2px solid black;
+}
+.temp{
+    width: 500px;
+    height: 50px;
+    outline: 1px solid green;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.temp1{
+    height: 50px;
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+.temp2{
+    height: 50px ;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
